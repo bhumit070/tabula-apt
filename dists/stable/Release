@@ -1,0 +1,23 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sun, 08 Nov 2026 09:16:39 +0000
+Label: Tabula
+Origin: Tabula
+Suite: stable
+MD5Sum:
+ 66e12852246c4c4487d3f0043f1e48df              136 Release
+ a33b0170516b8919974e59928e990cbb             2424 main/binary-amd64/Packages
+ 2bd67dc9095af116ca8339f49d3f001b              955 main/binary-amd64/Packages.gz
+SHA1:
+ 631f57ec187367abe7e23e9dea8d23d346b9dc5d              136 Release
+ 704115c66bd1695d0c8525c396c352b361f90138             2424 main/binary-amd64/Packages
+ dc40723e86cf555450eeb4d1038aa1b88aceb2ed              955 main/binary-amd64/Packages.gz
+SHA256:
+ 6d9b188c2969d317c057ca8cb7aad490c0e36a3a7c7e2ecbe139d41a397c282a              136 Release
+ 7aadd0439892b2c2f1a5e9ae4727478f02727bc4f830adcd95d60bed2bc295cb             2424 main/binary-amd64/Packages
+ 8fa3e51d216f5f05708ddfba0499b9c2a4a61921369390a0e9b2f10004411416              955 main/binary-amd64/Packages.gz
+SHA512:
+ 560a0593dbda6100b65a7d83b6050300770a826734b659ee9cf65bba957aca42675fddfcc39714b823eaa808bbf0b483ef953b1628b9738adc108b60a6097f32              136 Release
+ 831a7b2ee72777e8f376e6756ad5928537647af9db015525a5ef184dfb60e53bd1519e9fe6aec680f6959bd0d88b39ef103938ed1c9fa974c8b8b6322d37373d             2424 main/binary-amd64/Packages
+ 72c7c63bbf2309782ea1322082939709eb5e75dd99455b9aa392d61848d8f854ff10aaa1b48631349a5f9d80676eecf3c51d6b1ad8c00ad7ce2d83a6e50e5f1c              955 main/binary-amd64/Packages.gz

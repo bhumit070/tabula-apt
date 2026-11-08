@@ -1,0 +1,54 @@
+Package: tabula
+Architecture: amd64
+Version: 0.1.12
+Priority: optional
+Section: database
+Maintainer: bhumit070 <ganatrabhoomit070@gmail.com>
+Installed-Size: 74947
+Depends: libc6 (>= 2.35), libvulkan1, libxcb1 (>= 1.12), libxkbcommon-x11-0 (>= 0.5.0), libxkbcommon0 (>= 0.5.0)
+Recommends: gnome-keyring
+Filename: pool/main/t/tabula/tabula_0.1.12_amd64.deb
+Size: 19037068
+MD5sum: 349373aba4586f0af68f02945df489d3
+SHA1: d518f97540fbcd525ddfdbcf83e59125bee17720
+SHA256: 85fd865c04fd3e90e3233afb5d9fc8e8d2588eaa664c5235e29e1cfc1c1f3184
+SHA512: d678f83e11755b0262a7b22316d202c657dbce2441684f060aea0c1cd2a95d9299bd9adb9a9b0dc8322394927541e5f37130e4d032b48b7f1ebae9fb0d78a432
+Description: Database client for PostgreSQL, MySQL, SQLite, Redis and MongoDB
+ A fast native database client with no connection limit.
+
+Package: tabula
+Architecture: amd64
+Version: 0.1.13
+Priority: optional
+Section: database
+Maintainer: bhumit070 <ganatrabhoomit070@gmail.com>
+Installed-Size: 79659
+Depends: libc6 (>= 2.35), libvulkan1, libxcb1 (>= 1.12), libxkbcommon-x11-0 (>= 0.5.0), libxkbcommon0 (>= 0.5.0)
+Recommends: gnome-keyring
+Filename: pool/main/t/tabula/tabula_0.1.13_amd64.deb
+Size: 20234720
+MD5sum: a6351f7378a1fe1b197f68cdd445c540
+SHA1: 4265864c974f4892dfa15b56163bf49cf3e7739f
+SHA256: e5314bfb3230b927a132c0d8a9a4eb6f14429a3681095b31c95d520563932bac
+SHA512: 3ab5a8a59b9cbc8ce746c83a25af162a41cb385746eceab2a98d981a9c61da6f5b64d55015cb571dbd40e1d3d63c256651d15623c134ff4fb5940a5c22e5b2b2
+Description: Database client for PostgreSQL, MySQL, SQLite, Redis and MongoDB
+ A fast native database client with no connection limit.
+
+Package: tabula
+Architecture: amd64
+Version: 0.1.14
+Priority: optional
+Section: database
+Maintainer: bhumit070 <ganatrabhoomit070@gmail.com>
+Installed-Size: 83547
+Depends: libc6 (>= 2.35), libvulkan1, libxcb1 (>= 1.12), libxkbcommon-x11-0 (>= 0.5.0), libxkbcommon0 (>= 0.5.0)
+Recommends: gnome-keyring
+Filename: pool/main/t/tabula/tabula_0.1.14_amd64.deb
+Size: 21054332
+MD5sum: d5fb809b1090a259ce78e63dc370608a
+SHA1: ff69b944f51302ed832200c543abfb8d946f380b
+SHA256: 0ae12a85513ac4e7a82607e1d4863d64eea25264655ca1224580a198b5b7b53c
+SHA512: 078f04afa49d6f30e2e71f6febc6bc06e7f9db952e6d9dd509610860308577a24a98c699c57e1c3d8068a991c9f1698423df48a935a954b258149ac0d9918600
+Description: Database client for PostgreSQL, MySQL, SQL Server, SQLite, Redis and MongoDB
+ A fast native database client with no connection limit.
+
